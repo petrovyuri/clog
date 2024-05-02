@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 ## [unreleased]
 
+### Build
+
+- *(app)* 0.0.1
+
+## [0.0.1] - 2024-05-02
+
 ### 🚀 Features
 
 - *(github)* Add workflows
